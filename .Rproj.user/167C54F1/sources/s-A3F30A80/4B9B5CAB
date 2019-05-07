@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2520172121",
+    "hash" : "697836121",
     "id" : "4B9B5CAB",
-    "lastKnownWriteTime" : 1557240993,
-    "last_content_update" : 1557240993570,
+    "lastKnownWriteTime" : 1557241235,
+    "last_content_update" : 1557241235502,
     "path" : "C:/Users/michel/Desktop/Liri/blogdown/liridonbejta/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "2,22",
-        "scrollLine" : "0"
+        "cursorPosition" : "50,15",
+        "scrollLine" : "39"
     },
     "relative_order" : 2,
     "source_on_save" : false,
